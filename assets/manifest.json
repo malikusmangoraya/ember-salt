@@ -1,0 +1,550 @@
+{
+  "generator": "lumicorepro-design-engine",
+  "project": "ember-salt",
+  "style": "organic",
+  "generated_at": "2026-09-14T23:41:31Z",
+  "license": "All assets are self-generated original vector artwork (public-domain equivalent). No stock, no scraped, and no copyrighted material.",
+  "count": 27,
+  "assets": [
+    {
+      "file": "assets/organic/hero/hero-1.svg",
+      "category": "hero",
+      "style": "organic",
+      "title": "Ember Salt Hero",
+      "prompt": "Abstract hero for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/hero/hero-2.svg",
+      "category": "hero",
+      "style": "organic",
+      "title": "Ember Salt Hero",
+      "prompt": "Abstract hero for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/hero/hero-3.svg",
+      "category": "hero",
+      "style": "organic",
+      "title": "Ember Salt Hero",
+      "prompt": "Abstract hero for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/hero/hero-4.svg",
+      "category": "hero",
+      "style": "organic",
+      "title": "Ember Salt Hero",
+      "prompt": "Abstract hero for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/icons/icon-1.svg",
+      "category": "icons",
+      "style": "organic",
+      "title": "Ember Salt Icons Icon 1",
+      "prompt": "Abstract icons for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/icons/icon-2.svg",
+      "category": "icons",
+      "style": "organic",
+      "title": "Ember Salt Icons Icon 2",
+      "prompt": "Abstract icons for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/icons/icon-3.svg",
+      "category": "icons",
+      "style": "organic",
+      "title": "Ember Salt Icons Icon 3",
+      "prompt": "Abstract icons for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/icons/icon-4.svg",
+      "category": "icons",
+      "style": "organic",
+      "title": "Ember Salt Icons Icon 4",
+      "prompt": "Abstract icons for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/icons/icon-5.svg",
+      "category": "icons",
+      "style": "organic",
+      "title": "Ember Salt Icons Icon 5",
+      "prompt": "Abstract icons for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/icons/icon-6.svg",
+      "category": "icons",
+      "style": "organic",
+      "title": "Ember Salt Icons Icon 6",
+      "prompt": "Abstract icons for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/icons/icon-7.svg",
+      "category": "icons",
+      "style": "organic",
+      "title": "Ember Salt Icons Icon 7",
+      "prompt": "Abstract icons for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/icons/icon-8.svg",
+      "category": "icons",
+      "style": "organic",
+      "title": "Ember Salt Icons Icon 8",
+      "prompt": "Abstract icons for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/icons/icon-9.svg",
+      "category": "icons",
+      "style": "organic",
+      "title": "Ember Salt Icons Icon 9",
+      "prompt": "Abstract icons for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/icons/icon-10.svg",
+      "category": "icons",
+      "style": "organic",
+      "title": "Ember Salt Icons Icon 10",
+      "prompt": "Abstract icons for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/icons/icon-11.svg",
+      "category": "icons",
+      "style": "organic",
+      "title": "Ember Salt Icons Icon 11",
+      "prompt": "Abstract icons for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/icons/icon-12.svg",
+      "category": "icons",
+      "style": "organic",
+      "title": "Ember Salt Icons Icon 12",
+      "prompt": "Abstract icons for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/backgrounds/bg-1.svg",
+      "category": "backgrounds",
+      "style": "organic",
+      "title": "Ember Salt Backgrounds Background 1",
+      "prompt": "Abstract backgrounds for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/backgrounds/bg-2.svg",
+      "category": "backgrounds",
+      "style": "organic",
+      "title": "Ember Salt Backgrounds Background 2",
+      "prompt": "Abstract backgrounds for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/backgrounds/bg-3.svg",
+      "category": "backgrounds",
+      "style": "organic",
+      "title": "Ember Salt Backgrounds Background 3",
+      "prompt": "Abstract backgrounds for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/illustrations/illustration-1.svg",
+      "category": "illustrations",
+      "style": "organic",
+      "title": "Ember Salt Illustrations Illustration 1",
+      "prompt": "Abstract illustrations for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/illustrations/illustration-2.svg",
+      "category": "illustrations",
+      "style": "organic",
+      "title": "Ember Salt Illustrations Illustration 2",
+      "prompt": "Abstract illustrations for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/illustrations/illustration-3.svg",
+      "category": "illustrations",
+      "style": "organic",
+      "title": "Ember Salt Illustrations Illustration 3",
+      "prompt": "Abstract illustrations for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/illustrations/illustration-4.svg",
+      "category": "illustrations",
+      "style": "organic",
+      "title": "Ember Salt Illustrations Illustration 4",
+      "prompt": "Abstract illustrations for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/illustrations/illustration-5.svg",
+      "category": "illustrations",
+      "style": "organic",
+      "title": "Ember Salt Illustrations Illustration 5",
+      "prompt": "Abstract illustrations for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/mockups/mockup-1.svg",
+      "category": "mockups",
+      "style": "organic",
+      "title": "Ember Salt Mockups UI Mockup 1",
+      "prompt": "Abstract mockups for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/mockups/mockup-2.svg",
+      "category": "mockups",
+      "style": "organic",
+      "title": "Ember Salt Mockups UI Mockup 2",
+      "prompt": "Abstract mockups for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    },
+    {
+      "file": "assets/organic/mockups/mockup-3.svg",
+      "category": "mockups",
+      "style": "organic",
+      "title": "Ember Salt Mockups UI Mockup 3",
+      "prompt": "Abstract mockups for a Organic / Blob Shapes styled website; palette #10b981, #84cc16, #0d9488, #ecfdf5, #ffffff, #d1fae5, #14532d, #6b7280, #a7f3d0; rounded blob backgrounds, soft curves, nature-inspired palette.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#10b981",
+        "#84cc16",
+        "#0d9488",
+        "#ecfdf5",
+        "#ffffff",
+        "#d1fae5",
+        "#14532d",
+        "#6b7280",
+        "#a7f3d0"
+      ],
+      "seed": 312881118
+    }
+  ]
+}
